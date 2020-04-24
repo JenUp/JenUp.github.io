@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>hello world</title>
+    <url>/posts/hello_world_url.html</url>
+    <content><![CDATA[<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h1><p>你好世界</p>
+<a id="more"></a>
+
+<p>全文内容</p>
+<img data-src="/images/my-img.jpg" class="">]]></content>
+      <categories>
+        <category>分类1</category>
+        <category>分类2</category>
+      </categories>
+      <tags>
+        <tag>标签1</tag>
+        <tag>标签2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>hello world</title>
+    <url>/posts/test.html</url>
+    <content><![CDATA[<h1 id="Test"><a href="#Test" class="headerlink" title="Test"></a>Test</h1><h3 id="1-你好啊，吃饭没？"><a href="#1-你好啊，吃饭没？" class="headerlink" title="1.你好啊，吃饭没？"></a>1.你好啊，吃饭没？</h3><h3 id="2-我很好我吃饭了，你呢？"><a href="#2-我很好我吃饭了，你呢？" class="headerlink" title="2. 我很好我吃饭了，你呢？"></a>2. 我很好我吃饭了，你呢？</h3><h3 id="3-今天忙不忙啊啊"><a href="#3-今天忙不忙啊啊" class="headerlink" title="3. 今天忙不忙啊啊"></a>3. 今天忙不忙啊啊</h3><ul>
+<li>测试一下，在线编辑</li>
+</ul>
+]]></content>
+      <categories>
+        <category>分类1</category>
+        <category>分类2</category>
+      </categories>
+      <tags>
+        <tag>标签1</tag>
+        <tag>标签2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>文件模板</title>
+    <url>/posts/undefined.html</url>
+    <content><![CDATA[<blockquote><p>content</p>
+<footer><strong>[author[</strong><cite>source]] [link] [source_link_title]</cite></footer></blockquote>
+
+
+
+<blockquote><p>Git简介</p>
+<footer><strong>廖海峰</strong><cite><a href="https://www.liaoxuefeng.com/wiki/896043488029600/896067008724000" target="_blank" rel="noopener">www.liaoxuefeng.com/wiki/896043488029600/896067008724000</a></cite></footer></blockquote>
+
+
+
+<h1 id="Git-简介"><a href="#Git-简介" class="headerlink" title="Git 简介"></a>Git 简介</h1><ul>
+<li>Git是目前世界上最先进的分布式版本控制系统。</li>
+</ul>
+<h2 id="集中式-vs-分布式"><a href="#集中式-vs-分布式" class="headerlink" title="集中式 vs. 分布式"></a>集中式 vs. 分布式</h2>]]></content>
+      <categories>
+        <category>Templates</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>Notes</tag>
+      </tags>
+  </entry>
+</search>
